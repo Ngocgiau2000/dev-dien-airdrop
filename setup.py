@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="smart-airdrop-claimer",
+    name="dev-dien-airdrop",
     version="0.1.2",
     description="A package for automatically claiming airdrops.",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
     author="Smart Airdrop",
     author_email="smileuptn@gmail.com",
-    url="https://github.com/smart-airdrop/smart-airdrop-claimer",
+    url="https://github.com/dev-dien-airdrop/dev-dien-airdrop",
     packages=find_packages(),
     install_requires=[
         "colorama",
