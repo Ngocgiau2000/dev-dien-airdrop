@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Smart Airdrop",
     author_email="smileuptn@gmail.com",
-    url="https://github.com/dev-dien-airdrop/dev-dien-airdrop",
+    url="https://github.com/Ngocgiau2000/dev-dien-airdrop",
     packages=find_packages(),
     install_requires=[
         "colorama",
